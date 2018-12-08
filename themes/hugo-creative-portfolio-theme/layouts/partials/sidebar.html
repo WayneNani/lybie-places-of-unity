@@ -1,0 +1,54 @@
+<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+
+  <div class="sidebar-content">
+
+
+    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    {{ range .Site.Params.sidebarAbout }}
+      <p class="sidebar-p">{{ . | safeHTML }}</p>
+    {{ end }}
+
+    <ul class="sidebar-menu">
+      {{ $url := .Site.BaseURL }}
+      {{ range .Site.Params.navlinks }}
+        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+
+    {{ if eq .Site.Language.LanguageName "English" }}
+        <p class="sidebar-p" style="color:black;"><b>I am currently in </b> <img class="sidebar-img" src=/img/de.gif></p>
+        <!-- <p class="sidebar-p">I will be back in <img class="sidebar-img" src=/img/de.gif> on 26/10/2018</p> -->
+    {{ else }}
+        <p class="sidebar-p" style="color:black;"><b>Ich bin gerade in  </b> <img class="sidebar-img" src=/img/de.gif></p>
+        <!-- <p class="sidebar-p">Ich komme zurück nach <img class="sidebar-img" src=/img/de.gif> am 26.10.2018</p> -->
+    {{ end }}
+
+
+
+
+    {{ partial "social_buttons_in_sidebar.html" . }}
+
+    {{ if eq .Site.Language.LanguageName "English" }}
+        <a href="{{ .Site.BaseURL }}/de/places-of-unity/" style="color:#2065a1;">Deutsch</a>
+    {{ else }}
+        <a href="{{ .Site.BaseURL }}/places-of-unity/" style="color:#2065a1;">English</a>
+    {{ end }}
+    <br>
+    <br>
+    {{ if eq .Site.Language.LanguageName "English" }}
+        <a href="{{ .Site.BaseURL }}/imprint/" style="color:black;">Imprint</a>
+        --- <a href="{{ .Site.BaseURL }}/gdpr/" style="color:black;">Data Protection Regulation</a>
+    {{ else }}
+        <a href="{{ .Site.BaseURL }}/de/imprint/" style="color:black;">Impressum</a>
+        --- <a href="{{ .Site.BaseURL }}/de/gdpr/" style="color:black;">Datenschutzerklärung</a>
+    {{ end }} <br>
+    <div class="copyright">
+      <p class="credit" >
+        {{ with .Site.Params.copyright }}
+          {{ . | safeHTML }}
+        {{ end }}
+        {{ partial "attribution.html" . }}<br>
+      </p>
+    </div>
+  </div>
+</div>

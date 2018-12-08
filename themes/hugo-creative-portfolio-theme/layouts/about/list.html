@@ -1,0 +1,89 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+
+
+         <h1>{{ .Title }}</h1>
+         {{ .Content }}
+
+         <!--{{ if eq .Site.Language.LanguageName "English" }}
+         <script>
+            if(sessionStorage.getItem("language") == null) {
+                swal({
+                    title: '<h1>Welcome to Places Of Unity</h1><br><i>Choose your language</i> <br><br><br>',
+                    width: "100%",
+                    background: 'url(/img/orange-sky.jpg) no-repeat center',
+                    customClass: 'swal-wide',
+                    showCloseButton: false,
+                    showCancelButton: true,
+                    focusConfirm: false,
+                    confirmButtonText:'',
+                    confirmButtonAriaLabel: 'Thumbs up, great!',
+                    cancelButtonText:'',
+                    cancelButtonClass: 'swal-cancelButton',
+                    confirmButtonClass: 'swal-confirmButton',
+                    cancelButtonAriaLabel: 'Thumbs down',
+                    showConfirmButton: true,
+                    reverseButtons: true,
+                    html: '<p style="color:white;">This site saves your preferred language for a better user experience.</p>'
+                }).then((result) => {
+                    if (
+                        // Read more about handling dismissals
+                        result.dismiss === swal.DismissReason.cancel
+                    ) {
+                        sessionStorage.setItem("language", "en");
+                        swal.close();
+                    } else {
+                        sessionStorage.setItem("language", "de");
+                        window.location.href = "http://localhost:1313/de/about/";
+                    }
+                })
+            } else if (sessionStorage.getItem("language") == "de") {
+
+            }
+
+        </script>
+        {{ else }}
+        <script>
+            if(sessionStorage.getItem("language") == null) {
+               swal({
+                   title: '<h1>Willkommen zu den Plätzen der Einheit</h1><br><i>Wählen Sie Ihre Sprache</i> <br><br><br>',
+                   width: "100%",
+                   background: 'url(/img/orange-sky.jpg) no-repeat center',
+                   customClass: 'swal-wide',
+                   showCloseButton: false,
+                   showCancelButton: true,
+                   focusConfirm: false,
+                   confirmButtonText:'',
+                   confirmButtonAriaLabel: 'Thumbs up, great!',
+                   cancelButtonText:'',
+                   cancelButtonClass: 'swal-cancelButton',
+                   confirmButtonClass: 'swal-confirmButton',
+                   cancelButtonAriaLabel: 'Thumbs down',
+                   showConfirmButton: true,
+                   reverseButtons: true,
+                   html: '<p style="color:white;">Diese Seite speichert Ihre Sprache, um ein besseres Erlebnis zu ermöglichen.</p>'
+               }).then((result) => {
+                   if(result.dismiss === swal.DismissReason.cancel) {
+                       sessionStorage.setItem("language", "en");
+                       window.location.href = "http://localhost:1313/about/";
+                   } else {
+                       sessionStorage.setItem("language", "de");
+                       swal.close();
+                   }
+               })
+           } else if(sessionStorage.getItem("language") == "en") {
+               window.location.href = "http://localhost:1313/about/";
+           }
+
+       </script>
+       {{end}} -->
+
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

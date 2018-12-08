@@ -1,0 +1,115 @@
+baseurl = "https://places-of-unity.com/"
+title = "Places of Unity"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[languages.en]
+  languageName = "English"
+  title = "Places of Unity"
+
+  #[[languages.en.params.navlinks]]
+  #name = "Home"
+  #url = "about/"
+
+
+  [[languages.en.params.navlinks]]
+  name = "Places of Unity"
+  url = "places-of-unity/"
+  home = true
+
+  [[languages.en.params.navlinks]]
+  name = "Service"
+  url = "service/"
+
+  [[languages.en.params.navlinks]]
+  name = "Network"
+  url = "portfolio/"
+
+  #[[languages.en.params.navlinks]]
+  #name = "Testimonials"
+  #url = "testimonials/"
+
+  #[[languages.en.params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
+
+  [languages.en.params]
+  sidebarAbout = [
+    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   I am Lybie. <br> I create places of unity. <br> Every place is a power place. <br> Every place is unique. <br> Every place is part of a network for peace.",
+  ]
+
+
+
+[languages.de]
+  languageName = "Deutsch"
+  title = "Plätze der Einheit"
+
+  #[[languages.de.params.navlinks]]
+  #name = "Home"
+  #url = "de/about/"
+
+
+  [[languages.de.params.navlinks]]
+  name = "Plätze der Einheit"
+  url = "de/places-of-unity/"
+
+  [[languages.de.params.navlinks]]
+  name = "Service"
+  url = "de/service/"
+
+  [[languages.de.params.navlinks]]
+  name = "Netzwerk"
+  url = "de/portfolio/"
+
+  #[[languages.de.params.navlinks]]
+  #name = "Erfahrungsberichte"
+  #url = "de/testimonials/"
+
+  #[[languages.de.params.navlinks]]
+  #name = "Kontakt"
+  #url = "de/contact/"
+
+  [languages.de.params]
+  sidebarAbout = [
+    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   Ich bin Lybie.<br> Ich erschaffe Plätze der Einheit. <br> Jeder Platz ist ein Kraftplatz. <br>Jeder Platz ist einzigartig und Teil eines Netzwerkes für den Frieden.",
+  ]
+
+  [languages.de.params.social]
+  email = "/de/service/"
+  facebook      = "https://www.facebook.com/lybie.hund"
+  linkedin      = "https://de.linkedin.com/in/lybie-hund-67522984"
+  instagram     = "https://www.instagram.com/lybiehund/"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "blue"
+  description = "This is a website about my book: Places of Unity"
+  copyright = "&copy;2018 Lybie B. Hund | Website created by Jakob Drees"
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "lybie.hund@gmx.net"
+
+
+
+
+  [params.social]
+  facebook      = "https://www.facebook.com/lybie.hund"
+  email         = "/service/"
+  linkedin      = "https://de.linkedin.com/in/lybie-hund-67522984"
+  instagram     = "https://www.instagram.com/lybiehund/"

@@ -1,0 +1,62 @@
+{{ if eq .Site.Language.LanguageName "English" }}
+
+    {{ with .Site.Params.email }}
+
+    <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+        <div class="controls">
+            <div class="form-group">
+                <label for="name">Your name *</label>
+                <input type="text" name="name" id="name" required="required" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="email">Your email *</label>
+                <input type="email" name="email" id="email" required="required" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="message">Your message for me *</label>
+                <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="accept">I have read the <a href="https://places-of-unity.com/gdpr/">Data protection regulation</a> and accept it. *</label>
+                <input type="checkbox" name="accept" id="accept" required="required" class="css-checkbox">
+            </div>
+            <div>
+                <input type="submit" value="Send" class="btn btn-ghost">
+            </div>
+        </div>
+    </form>
+    {{ end }}
+    <h4>You can find me also on:</h4>
+    {{ partial "social_buttons_in_contact.html" . }}
+{{ else }}
+
+    {{ with .Site.Params.email }}
+
+    <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+        <div class="controls">
+            <div class="form-group">
+                <label for="name">Name *</label>
+                <input type="text" name="name" id="name" required="required" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="email">E-Mail Adresse *</label>
+                <input type="email" name="email" id="email" required="required" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="message">Deine Nachricht *</label>
+                <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="accept">Ich habe die <a href="https://places-of-unity.com/de/gdpr/">Datenschutzerklärung</a> gelesen und akzeptiere diese. *</label>
+                <input type="checkbox" name="accept" id="accept" required="required" class="css-checkbox">
+            </div>
+            <div>
+                <input type="submit" value="Senden" class="btn btn-ghost">
+            </div>
+        </div>
+    </form>
+    {{ end }}
+    <h4>Hier findest du mich auch:</h4>
+    {{ partial "social_buttons_in_contact.html" . }}
+
+{{ end }}
