@@ -70,7 +70,7 @@ googleAnalytics = ""
   #url = "de/testimonials/"
 
   #[[languages.de.params.navlinks]]
-  #name = "Kontakt"
+  #name = "Konakt"
   #url = "de/contact/"
 
   [languages.de.params]
