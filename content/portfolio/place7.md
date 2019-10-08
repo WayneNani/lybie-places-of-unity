@@ -1,12 +1,12 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/portfolio/place7_rose.png"
+image = "/img/portfolio/place7_rose.jpg"
 date = "2019-07-30T18:25:22+05:30"
 weight = 98
 description = "Kenneth Hahn State Recreation Area, Los Angeles"
 +++
-<img src="/img/portfolio/place7_lybie.png" width=27.5%  align="left" margin-bottom=20px style = "border-radius:30px"/>
+<img src="/img/portfolio/place7_lybie.jpg" width=27.5%  align="left" margin-bottom=20px style = "border-radius:30px"/>
 <img src="/img/portfolio/place7_kristall.jpg" width=33.25% align="left" style = "border-radius: 30px; margin-left: 1%; margin-bottom=20px"/>
 <img src="/img/portfolio/place7_lybie_stehend.jpg" width=32.5% align="left" style = "border-radius: 30px; margin-left: 1%; margin-bottom=20px"/>
 
