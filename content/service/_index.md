@@ -3,10 +3,8 @@ date = "2017-11-05T21:05:33+05:30"
 title = "Service"
 +++
 
-You are interested in having a place of unity and in supporting the network worldwide!?
+You are interested in a place of unity and you still have questions?
 
-You still have questions?
+You´re welcome to contact me by using the contact form below!
 
-Feel free to contact me for individual consulting and further information by using <br> the contact form below!
-
-Thank you!
+I´m looking forward to your inquiry!

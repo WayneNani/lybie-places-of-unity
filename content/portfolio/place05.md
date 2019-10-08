@@ -13,6 +13,6 @@ This place was created in a public park behind the town hall of Bad Godesberg as
 
 In the center of the place there is a rose quartz, that was initiated with the light of Christ. The place was decorated and created by all workshop participants together.
 
-Many thanks to Sofie Motzkus, Tanja S. and Asina D.!
+Many thanks to Sofie M., Tanja S. and Asina D.!
 
 09/30/2018

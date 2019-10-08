@@ -17,7 +17,7 @@ googleAnalytics = ""
 
 
   [[languages.en.params.navlinks]]
-  name = "Places of Unity"
+  name = "About"
   url = "places-of-unity/"
   home = true
 
@@ -26,7 +26,7 @@ googleAnalytics = ""
   url = "service/"
 
   [[languages.en.params.navlinks]]
-  name = "Network"
+  name = "Places worldwide"
   url = "portfolio/"
 
   #[[languages.en.params.navlinks]]
@@ -39,7 +39,7 @@ googleAnalytics = ""
 
   [languages.en.params]
   sidebarAbout = [
-    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   I am Lybie. <br> I create places of unity. <br> Every place is a power place. <br> Every place is unique. <br> Every place is part of a network for peace.",
+    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   I'm Lybie. <br> I create places of unity in nature. <br> Every place is made of crystals and starlight and unites heaven and earth.",
   ]
 
 
@@ -54,15 +54,15 @@ googleAnalytics = ""
 
 
   [[languages.de.params.navlinks]]
-  name = "Plätze der Einheit"
+  name = "Mehr Infos"
   url = "de/places-of-unity/"
 
   [[languages.de.params.navlinks]]
-  name = "Service"
+  name = "Mein Angebot"
   url = "de/service/"
 
   [[languages.de.params.navlinks]]
-  name = "Netzwerk"
+  name = "Plätze weltweit"
   url = "de/portfolio/"
 
   #[[languages.de.params.navlinks]]
@@ -75,7 +75,7 @@ googleAnalytics = ""
 
   [languages.de.params]
   sidebarAbout = [
-    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   Ich bin Lybie.<br> Ich erschaffe Plätze der Einheit. <br> Jeder Platz ist ein Kraftplatz. <br>Jeder Platz ist einzigartig und Teil eines Netzwerkes für den Frieden.",
+    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   Ich bin Lybie.<br> Ich erschaffe Plätze der Einheit in der Natur. <br> Jeder Platz besteht aus Kristallen und Sternenlicht und verbindet Himmel und Erde.",
   ]
 
   [languages.de.params.social]

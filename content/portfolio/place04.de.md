@@ -15,4 +15,4 @@ Dieser Platz wird getragen durch das Licht des Erzengels Michael. Stehen wir dav
 
 In der Mitte des Platzes liegen ein Rosenquarz und ein Amethyst, beides Rohsteine. Die vier Bergkristallspitzen sind auf die vier Himmelsrichtungen ausgerichtet und die damit verbundenen vier Elemente Erde, Luft, Feuer und Wasser. Die Bergkristall Trommelsteine bilden den Kreis und bündeln somit die Energien.
 
-Die Einweihung fand statt am 13.8.18 mit Linda Yannetti und Lybie Hund.
+Die Einweihung fand statt am 13.8.18 mit Linda Y. und Lybie Hund.

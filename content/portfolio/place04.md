@@ -17,4 +17,4 @@ In the center there is a rose quartz rough, with an amethyst rough.
 
 Four Arkansas Pts are set in each direction and connect with the 4 elements earth, air, fire and water. The tumbled white quartz crystals create the circle and bring all the energies together.
 
-The place was initiated on 08/13/18 with Linda Yannetti and Lybie Hund.
+The place was initiated on 08/13/18 with Linda Y. and Lybie Hund.

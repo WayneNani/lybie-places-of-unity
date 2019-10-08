@@ -14,6 +14,6 @@ In der Mitte des Platzes liegt ein mit Christuslicht initiierter Rosenquarz.
 
 Der Platz wurde von allen Workshop Teilnehmerinnen gemeinsam angelegt und geschmückt.
 
-Vielen Dank dafür an Sofie Motzkus, Tanja S. und Asina D.!
+Vielen Dank dafür an Sofie M., Tanja S. und Asina D.!
 
 30.09. 2018
