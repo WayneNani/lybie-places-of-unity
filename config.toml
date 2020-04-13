@@ -10,7 +10,7 @@ googleAnalytics = ""
 # Enable raw HTML in .md files
 [markup.goldmark.renderer]
   unsafe= true
-  
+
 [languages.en]
   languageName = "English"
   title = "Places of Unity"
@@ -93,7 +93,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "blue"
   description = "This is a website about my book: Places of Unity"
-  copyright = "&copy;2018 Lybie B. Hund | Website created by Jakob Drees"
+  copyright = "&copy;2020 Lybie B. Hund | Website created by Jakob Drees"
 
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
