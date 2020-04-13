@@ -27,9 +27,9 @@
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     {{ if eq .Site.Language.LanguageName "English" }}
-        <a href="{{ .Site.BaseURL }}/de/places-of-unity/" style="color:#2065a1;">Deutsch</a>
+        <a href="/de/{{ .RelPermalink }}" style="color:#2065a1;">Deutsch</a>
     {{ else }}
-        <a href="{{ .Site.BaseURL }}/places-of-unity/" style="color:#2065a1;">English</a>
+        <a href="/{{ slicestr .RelPermalink 4}}" style="color:#2065a1;">English</a>
     {{ end }}
     <br>
     <br>
