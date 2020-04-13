@@ -9,7 +9,7 @@ description = "Kenneth Hahn State Recreation Area, Los Angeles"
 
 <img src="/img/portfolio/place7_lybie.jpg" width=27.5%  align="left"/>
 <img src="/img/portfolio/place7_kristall.jpg" width=33.25% align="left" style = "margin-left: 1%;"/>
-<img src="/img/portfolio/place7_lybie_stehend.jpg" width=32.5% align="left" style = "margin-left: 1%;"/>
+<img src="/img/portfolio/place7_lybie_stehend.jpg" width=32.5% align="left" style = "margin-left: 1%; margin-right: 1%"/>
 
 
 This place of unity is located in the heart chakra of Los Angeles and has a very special meaning.
