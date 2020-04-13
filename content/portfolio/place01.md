@@ -1,13 +1,13 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/herz-blüten.jpg"
+image = "/img/portfolio/herz-blüten.jpg"
 date = "2018-05-05T18:25:22+05:30"
 weight = 102
 description = "At the Bismarckturm in Bonn Bad Godesberg, Deutschland"
 +++
 
-<img src="/img/herz-blüten.jpg" width=70% id="bildImText" align="left"/>
+<img src="/img/portfolio/herz-blüten.jpg" width=70% id="bildImText"/>
 
 The first place of unity wasn´t planned and was spontaneously created during a workshop. We just wanted to make the “fire that turns hate into love”, but during the ritual the power of heaven and earth connected with the Christ light and this energy could be anchored in a stone that I found on the ground. It was magic!
 

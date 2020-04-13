@@ -81,12 +81,12 @@ body {
     height: 110px;
     width: auto;
     margin-right: 5px;
+    border-radius: 10px;
 }
 
 #bildImText {
-    align: left !important;
-    margin-right: 100% !important;
-    margin-bottom: 10px !important;
+    margin-right: 100%;
+    margin-bottom: 10px;
     border-radius: 30px;
 }
 
@@ -101,10 +101,6 @@ body {
     color: #2065a1;
     cursor: pointer;
 }
-
-/*.visible-xs {
-    display: block !important;
-}*/
 
 @media (min-width:600px) {
     .sidebar-menu li a{
@@ -187,4 +183,9 @@ body {
 
 .row-offcanvas-left.active {
     left: 65%;
+}
+
+.content-column-content > .img-responsive {
+    border-radius: 30px;
+    margin-bottom: 10px;
 }

@@ -1,13 +1,13 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/herz-blüten.jpg"
+image = "/img/portfolio/herz-blüten.jpg"
 date = "2018-05-05T18:25:22+05:30"
 weight = 102
 description = "Am Bismarckturm in Bonn Bad Godesberg, Deutschland"
 +++
 
-<img src="/img/herz-blüten.jpg" width=70% id="bildImText" align="left"/>
+<img src="/img/portfolio/herz-blüten.jpg" width=70% id="bildImText"/>
 
 Der erste Platz der Einheit der Einheit entstand am 6.Mai 2018 im Rahmen eines Kristallworkshops. Eigentlich war es nicht geplant, einen Platz anzulegen. Es ging in erster Linie darum, ein Feuerritual zu machen und zwar „Das Feuer das Hass in Liebe verwandelt“.
 

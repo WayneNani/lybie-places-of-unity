@@ -7,7 +7,7 @@ weight = 98
 description = "Redoutenpark, Bad Godesberg, Germany"
 +++
 
-<img src="/img/portfolio/redoutenpark.jpg" width=70% id="bildImText" align="left"/>
+<img src="/img/portfolio/redoutenpark.jpg" width=70% id="bildImText"/>
 
 This place was created in a public park behind the town hall of Bad Godesberg as part of a crystal workshop. It is closely connected to the network of trees and supports them in their work to create a harmonious and healing energy in the park and for the whole environment together with the nature beings. In this process the place is supported by the starlight from Venus. This light stimulates a natural energy flow of love (prema) and peace (shanti) in us and in the earth.
 

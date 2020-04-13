@@ -9,7 +9,7 @@ description = "Calabasas, Kalifornien"
 
 Platz der Einheit auf Lindas Grundstück
 
-<img src="/img/portfolio/rosa_kristall.jpg" width=100% id="bildImText" align="left"/>
+<img src="/img/portfolio/rosa_kristall.jpg" width=100% id="bildImText"/>
 
 Dieser Platz wird getragen durch das Licht des Erzengels Michael. Stehen wir davor, so können wir alles hinter uns lassen, das nicht wahrhaftig zu uns selbst gehört. Wir können neue Energie auftanken und vielleicht sogar eine Engelbotschaft erhalten.
 
