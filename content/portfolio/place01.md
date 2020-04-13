@@ -2,9 +2,9 @@
 showonlyimage = false
 draft = false
 image = "/img/portfolio/herz-blüten.jpg"
-date = "2018-05-05T18:25:22+05:30"
+date = "2018-05-06T18:25:22+05:30"
 weight = 102
-description = "At the Bismarckturm in Bonn Bad Godesberg, Deutschland"
+description = "At the Bismarckturm in Bonn, Bad Godesberg, Deutschland"
 +++
 
 <img src="/img/portfolio/herz-blüten.jpg" width=70% id="bildImText"/>

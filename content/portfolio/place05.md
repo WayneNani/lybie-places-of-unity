@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "/img/portfolio/redoutenpark.jpg"
 date = "2018-09-30T18:25:22+05:30"
-weight = 98
+weight = 102
 description = "Redoutenpark, Bad Godesberg, Germany"
 +++
 

@@ -3,13 +3,11 @@ showonlyimage = false
 draft = false
 image = "/img/portfolio/rosa_kristall.jpg"
 date = "2018-08-13T18:25:22+05:30"
-weight = 99
+weight = 102
 description = "Calabasas, Kalifornien"
 +++
 
-Platz der Einheit auf Lindas Grundstück
-
-<img src="/img/portfolio/rosa_kristall.jpg" width=100% id="bildImText"/>
+<img src="/img/portfolio/rosa_kristall.jpg" width=70% id="bildImText"/>
 
 Dieser Platz wird getragen durch das Licht des Erzengels Michael. Stehen wir davor, so können wir alles hinter uns lassen, das nicht wahrhaftig zu uns selbst gehört. Wir können neue Energie auftanken und vielleicht sogar eine Engelbotschaft erhalten.
 

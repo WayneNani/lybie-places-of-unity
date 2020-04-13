@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "/img/portfolio/redoutenpark.jpg"
 date = "2018-09-30T18:25:22+05:30"
-weight = 98
+weight = 102
 description = "Redoutenpark, Bad Godesberg, Deutschland"
 +++
 
@@ -16,4 +16,4 @@ Der Platz wurde von allen Workshop Teilnehmerinnen gemeinsam angelegt und geschm
 
 Vielen Dank dafür an Sofie M., Tanja S. und Asina D.!
 
-30.09. 2018
+30.09.2018

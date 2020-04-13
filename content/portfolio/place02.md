@@ -1,10 +1,10 @@
 +++
-date = "2018-06-05T19:41:01+05:30"
+showonlyimage = false
 draft = false
 image = "/img/portfolio/stein-rosenblätter.jpg"
-showonlyimage = false
-weight = 101
-description = "Paderborn, Deutschland"
+date = "2018-06-05T18:25:22+05:30"
+weight = 102
+description = "Paderborn, Germany"
 +++
 
 <img src="/img/portfolio/stein-rosenblätter.jpg" width=70% id="bildImText"/>

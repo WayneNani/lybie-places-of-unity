@@ -10,7 +10,7 @@ googleAnalytics = ""
 # Enable raw HTML in .md files
 [markup.goldmark.renderer]
   unsafe= true
-
+  
 [languages.en]
   languageName = "English"
   title = "Places of Unity"
