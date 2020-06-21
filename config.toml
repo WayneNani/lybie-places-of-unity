@@ -43,7 +43,7 @@ googleAnalytics = ""
 
   [languages.en.params]
   sidebarAbout = [
-    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   I'm Lybie.</br>I create places of unity in nature.</br>Every place is made of crystals and starlight and unites heaven and earth.",
+    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/>   I'm Lybie.<br>I create places of unity in nature.<br>Every place is made of crystals and starlight and unites heaven and earth.",
   ]
 
 
@@ -79,7 +79,7 @@ googleAnalytics = ""
 
   [languages.de.params]
   sidebarAbout = [
-    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/> Ich bin Lybie.</br>Ich erschaffe Plätze der Einheit in der Natur.</br>Jeder Platz besteht aus Kristallen und Sternenlicht und verbindet Himmel und Erde.",
+    "<img src=\"/img/lybie_seite_gesicht.jpg\" id=\"bild\"/> Ich bin Lybie.<br>Ich erschaffe Plätze der Einheit in der Natur.<br>Jeder Platz besteht aus Kristallen und Sternenlicht und verbindet Himmel und Erde.",
   ]
 
   [languages.de.params.social]
