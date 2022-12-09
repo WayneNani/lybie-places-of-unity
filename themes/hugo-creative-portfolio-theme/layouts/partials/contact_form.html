@@ -1,8 +1,8 @@
 {{ if eq .Site.Language.LanguageName "English" }}
 
-    {{ with .Site.Params.email }}
+    {{ with .Site.Params.formspree_id }}
 
-    <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+    <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/f/{{ . }}">
         <div class="controls">
             <div class="form-group">
                 <label for="name">Your name *</label>
@@ -30,9 +30,9 @@
     {{ partial "social_buttons_in_contact.html" . }}
 {{ else }}
 
-    {{ with .Site.Params.email }}
+    {{ with .Site.Params.formspree_id }}
 
-    <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+    <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/f/{{ . }}">
         <div class="controls">
             <div class="form-group">
                 <label for="name">Name *</label>
